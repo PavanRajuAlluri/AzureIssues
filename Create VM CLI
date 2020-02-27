@@ -1,0 +1,8 @@
+while i am trying to create VM from CLI command, it is throwing error on image what i have used. Despite i have used different image names to do so. But had same error below. Could you please look into it.
+
+Error :
+This user name 'admin' meets general requirements, but specifically disallowed for this image. Please try a different value.
+
+Thanks 
+Pavan Alluri
+8008132188
